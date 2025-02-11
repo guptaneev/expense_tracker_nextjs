@@ -13,7 +13,7 @@ This project was created to learn the respective technologies in a real applicab
 - [Clerk](https://clerk.dev/) - Authentication and user management
 - [Neon](https://neon.tech/) - Serverless PostgreSQL database hosting
 
-
+![Example Image](image.png)
 
 ## License
 
